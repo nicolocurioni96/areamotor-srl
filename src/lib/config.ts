@@ -1,6 +1,7 @@
 export const businessConfig = {
   // Identity
   name: "Areamotor SRL",
+  category: "mechanic",
   tagline: "Diagnosi veloci, riparazioni durature.",
   city: "Modena",
 
@@ -8,6 +9,7 @@ export const businessConfig = {
   address: "Via Antonio Delfini, 56, 41123 Modena MO",
   phone: "+39 333 642 9476",
   email: "",
+  bookingUrl: "",
 
   // Online presence
   googleMapsUrl: "https://maps.google.com/?q=Via%20Antonio%20Delfini%2C%2056%2C%2041123%20Modena%20MO",
